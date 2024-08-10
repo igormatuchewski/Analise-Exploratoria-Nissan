@@ -8,7 +8,8 @@ O dataset utilizado foi baixado do Kaggle e contém dados **fictícios** diversa
 * [Nissan All Models Price Prediction Dataset](https://www.kaggle.com/datasets/marius2303/nissan-all-models-price-prediction-dataset)
 
 1.2 Ferramentas Utilizadas:
-* Linguagem Python e suas bibliotecas: Pandas e Plotly.express
+* Linguagem Python e suas bibliotecas: Pandas, Plotly.express e Matplotlib.pyplot
+* *Muito importante mencionar aqui que utilizei primeiramente o Plotly.express para gerar os gráficos por ser mais dinâmico e ser possível interagir com ele, contudo, o GitHub não suporta a exibição dos gráficos do Plotly.express, devido a isso refiz os gráficos utilizando a biblioteca Matplotlib.pyplot, por conta disso no código você verá dois blocos de código antes do gráfico.
   
 1.3 Estrutura do Projeto
 * Carregamento do dataset e inspeção inicial da estrutura.
