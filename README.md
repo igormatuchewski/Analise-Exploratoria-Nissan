@@ -50,7 +50,7 @@ O dataset utilizado foi baixado do Kaggle e contém dados **fictícios** diversa
 * Nessa análise novamente foi possível observar que há uma correlação muito fraca entre as variáveis "km" e "price", mostrando que não há um padrão que interfira para que o preço distoe de um veículo para os demais.
 
 3.3 Segmentação de Mercado por Faixa Etária:
-* A maior parte dos clientes estão concentrados na faixa etária entre 46 e 60 anos, explicitando que este grupo é um segmento de mercado importante para a loja com 49,83% de compras a mais que a faixa etária na segunda colocação que é entre 36 e 45 anos. Portanto, se agruparmos as duas faixas etárias o range ficaria entre 36 e 60 anos, e esse grupo representa 49,67% de toda a base de dados.
+* A maior parte dos clientes estão concentrados na faixa etária entre 46 e 60 anos, explicitando que este grupo é um segmento de mercado importante para a loja com 49,42% de compras a mais que a faixa etária na segunda colocação que é entre 36 e 45 anos. Portanto, se agruparmos as duas faixas etárias o range ficaria entre 36 e 60 anos, e esse grupo representa 49,69% de toda a base de dados.
 
 3.4 Preferências de Cor por Gênero:
 * Com base na análise feita e a utilização do gráfico, podemos verificar que **não há uma cor de veículo que possamos considerar uma preferência absoluta.** Dentre os gêneros, é claro que a **cor vermelha é a que possui mais busca entre os homens** e a **prata entre as mulheres**, no entanto, chama a atenção a baixa procura por algumas cores e devido a isso vamos alterar a forma de ver o gráfico trazendo apenas a quantidade de compras por cor, sem os gêneros.
